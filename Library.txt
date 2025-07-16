@@ -1,0 +1,9 @@
+streamlit
+numpy==
+tensorflow
+matplotlib
+scikit-learn
+seaborn
+Pillow
+opencv-python==4.8.0.76  # Opsional jika butuh OpenCV
+gdown

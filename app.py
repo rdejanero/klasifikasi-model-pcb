@@ -57,7 +57,7 @@ if uploaded_file is not None:
     st.image(img, caption="📷 Gambar PCB yang Anda unggah", use_column_width=True)
 
 # Tombol prediksi
- if st.button("🔍 Prediksi"):
+if st.button("🔍 Prediksi"):
       with st.spinner("Sedang memproses gambar..."):
             # Preprocessing
             img_resized = img.resize((500, 500))

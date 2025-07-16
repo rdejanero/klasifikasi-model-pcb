@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ewXhj1Jde3s7gSn-2v12oAChPwDKisyu
 """
 
-!pip install streamlit
-
 import streamlit as st
 import numpy as np
 from tensorflow.keras.models import load_model

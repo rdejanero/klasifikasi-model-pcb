@@ -1,5 +1,5 @@
 streamlit
-numpy==
+numpy
 tensorflow
 matplotlib
 scikit-learn
